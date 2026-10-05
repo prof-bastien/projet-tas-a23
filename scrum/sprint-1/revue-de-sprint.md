@@ -1,5 +1,5 @@
 # Revue de sprint
 
-<video src="images/test-base-mechanic.mp4" controls width="100%"></video>
+![Test de la base mécanique](images/test-base-mechanic.gif)
 
-<video src="images/test-base-sorting.mp4" controls width="100%"></video>
+![Test du mécanisme de tri](images/test-base-sorting.gif)
