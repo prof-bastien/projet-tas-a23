@@ -35,7 +35,7 @@ Ce document contient l'ensemble des histoires utilisateur (*User Stories*) prior
 * **Afin que** les variations de lumière ambiante de la pièce ne faussent pas la détection des couleurs.
 > **Critères d'acceptation :**
 > - La calibration des couleurs reste valide sous un éclairage néon puissant comme dans la quasi-obscurité.
-- [] En cours de déveloment.
+- [ ] En cours de déveloment.
 
 #### PB-05 — Détection du niveau de remplissage de l'entonnoir
 * **En tant qu'** opérateur,  
@@ -44,7 +44,7 @@ Ce document contient l'ensemble des histoires utilisateur (*User Stories*) prior
 > **Critères d'acceptation :**
 > - Mesure en temps réel de la hauteur du niveau de bonbons via le capteur ToF.
 > - Détection et signalement du seuil « réservoir vide ».
-- [] En cours de déveloment.
+- [ ] En cours de déveloment.
 
 #### PB-06 — Contrôle de présence des bacs de réception
 * **En tant qu'** opérateur,  
@@ -53,7 +53,7 @@ Ce document contient l'ensemble des histoires utilisateur (*User Stories*) prior
 > **Critères d'acceptation :**
 > - Détection de présence installée sur chaque réceptacle de couleur.
 > - Arrêt immédiat du cycle de distribution lorsqu'un bac est retiré.
-- [] En cours de déveloment.
+- [ ] En cours de déveloment.
 
 #### PB-07 — Signalisation visuelle de l'état du système (Feux tricolores)
 * **En tant qu'** utilisateur,  
@@ -71,7 +71,7 @@ Ce document contient l'ensemble des histoires utilisateur (*User Stories*) prior
 * **Afin d'** avoir un produit propre sans fils volants ni fixations temporaires.
 > **Critères d'acceptation :**
 > - Pièces modifiées imprimées et ajustées sans câbles apparents non fixés.
-- [] En cours de déveloment.
+- [ ] En cours de déveloment.
 
 #### PB-09 — Reprise automatique et gestion des erreurs
 * **En tant qu'** opérateur,  
@@ -80,7 +80,7 @@ Ce document contient l'ensemble des histoires utilisateur (*User Stories*) prior
 > **Critères d'acceptation :**
 > - Architecture logicielle basée sur une machine à états.
 > - Reprise fluide du tri après la réinsertion d'un bac ou le réapprovisionnement de l'entonnoir.
-- [] En cours de déveloment.
+- [ ] En cours de déveloment.
 
 
 ## 🛠 Exigences Transversales (Definition of Done - DoD)
