@@ -63,7 +63,7 @@ Ce document contient l'ensemble des histoires utilisateur (*User Stories*) prior
 > - **Vert :** Tri en cours / Système prêt.
 > - **Jaune :** Niveau d'entonnoir bas.
 > - **Rouge :** Entonnoir vide, bac de réception manquant ou blocage mécanique.
-- [] En cours de déveloment.
+- [ ] En cours de déveloment.
 
 #### PB-08 — Intégration esthétique et ergonomique des capteurs
 * **En tant qu'** utilisateur,  
